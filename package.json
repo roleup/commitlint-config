@@ -1,6 +1,6 @@
 {
   "name": "@roleup/commitlint-config",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "author": "Eric Hacke",
   "bugs": {
     "url": "https://github.com/roleup/commitlint-config/issues"
